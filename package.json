@@ -1,0 +1,29 @@
+{
+  "name": "remove-leading-zeros",
+  "version": "1.0.0",
+  "description": "Remove leading zeros from a binary string",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/remove-leading-zeros.git"
+  },
+  "keywords": [
+    "binary",
+    "bits",
+    "leading",
+    "zero",
+    "remove"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/remove-leading-zeros/issues"
+  },
+  "homepage": "https://github.com/bredele/remove-leading-zeros#readme"
+}
