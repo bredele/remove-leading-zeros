@@ -14,8 +14,6 @@ test('remove leading zero', assert => {
   )
 })
 
-
-
 test('remove leading zero', assert => {
   assert.plan(1)
   assert.equal(
