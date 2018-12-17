@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/bredele/remove-leading-zeros/issues"
   },
-  "homepage": "https://github.com/bredele/remove-leading-zeros#readme"
+  "homepage": "https://github.com/bredele/remove-leading-zeros#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
 }
